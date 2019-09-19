@@ -8,8 +8,8 @@
 #### Link para SSH:
 > git@github.com:GustavoCSRamalho/Kotlin-Web-Learning.git
 #### Rodar o projeto
-> Após ter clonado o projeto, abra na plataforma de desenvolvimento de sua preferencia, execute o projeto,e para testar as rotas,
-abra o arquivo **Kotlin.postman_collection.json** que se encontra na pasta principal do projeto com o programa **POSTMAN** e execute as rotas.
+> Após a clonagem, abra o projeto na plataforma de desenvolvimento de sua preferencia, execute-o,
+importe o arquivo **Kotlin.postman_collection.json** que se encontra na pasta principal com o programa **POSTMAN** e teste suas rotas.
 # Plataforma de desenvolvimento
 - Intellij IDEA community edition 2019.2.2
 - Postman v7.7.2
